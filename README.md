@@ -1,3 +1,3 @@
 # edspert_flutter_resume
 
-A new Flutter project.
+Edspert Flutter Resume App Tugas 1
